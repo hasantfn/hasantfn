@@ -2,7 +2,7 @@
 
 I'm currently a first year student in Bilkent University. I'm studying computer science.
 
-I'm currently working on Java
+I'm currently working on Java and Fusion 360
 
 
 
