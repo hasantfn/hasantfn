@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm currently a first year student in Bilkent University. I'm studying computer science.
+
+I'm currently working on Java
+
+
+
+You can reach me through the social media accounts in the description. 
+
 <!--
 **hasantfn/hasantfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
