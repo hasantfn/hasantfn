@@ -5,14 +5,14 @@ I'm currently a sophomore student at Bilkent University, studying Computer Scien
 ## 🔭 Currently working on
 - Java development
 - C++ programming
-- Fusion 360 and Blender for 3D design
+- Fusion 360 and Blender 3D for design
 - 3D printing
 - FPGA programming
 
 ## 🌱 Learning
 - Expanding my skills in Java and C++
 - Exploring 3D modeling with Fusion 360
-- Diving into 3D printing techniques, optimizations, and GCode based hardware optimization
+- Diving into 3D printing techniques, optimizations, and GCodeBase hardware optimization
 - Working with FPGA for hardware programming
 
 ## 👯 Looking to collaborate on
@@ -32,4 +32,4 @@ I'm currently a sophomore student at Bilkent University, studying Computer Scien
 You can reach me through my social media accounts listed in the description.
 
 ## ⚡ Fun fact
-- I'm passionate about creating both functional code and aesthetically pleasing designs!
+- I'm passionate about creating things, which sometimes causes problems in my life, and I enjoy solving these problems both aesthetically and functionally!
