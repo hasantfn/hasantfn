@@ -12,7 +12,7 @@ I'm currently a sophomore student at Bilkent University, studying Computer Scien
 ## 🌱 Learning
 - Expanding my skills in Java and C++
 - Exploring 3D modeling with Fusion 360
-- Diving into 3D printing techniques, optimizations, and GCodeBase hardware optimization
+- Diving into 3D printing techniques, optimizations, and GCode based hardware optimization
 - Working with FPGA for hardware programming
 
 ## 👯 Looking to collaborate on
