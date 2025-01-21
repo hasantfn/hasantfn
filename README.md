@@ -1,24 +1,35 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm currently a first year student in Bilkent University. I'm studying computer science.
+I'm currently a sophomore student at Bilkent University, studying Computer Science.
 
-I'm currently working on Java and Fusion 360
+## 🔭 Currently working on
+- Java development
+- C++ programming
+- Fusion 360 and Blender for 3D design
+- 3D printing
+- FPGA programming
 
+## 🌱 Learning
+- Expanding my skills in Java and C++
+- Exploring 3D modeling with Fusion 360
+- Diving into 3D printing techniques, optimizations, and GCode based hardware optimization
+- Working with FPGA for hardware programming
 
+## 👯 Looking to collaborate on
+- Java, C++, or design challenges
+- 3D printing and FPGA-related projects
 
-You can reach me through the social media accounts in the description. 
+## 🤔 Looking for help with
+- Any questions related to Java, C++, Fusion 360, 3D printing, or FPGA
 
-<!--
-**hasantfn/hasantfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Java, C++ programming
+- Fusion 360 and 3D modeling
+- 3D printing processes
+- FPGA and hardware development
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+You can reach me through my social media accounts listed in the description.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact
+- I'm passionate about creating both functional code and aesthetically pleasing designs!
